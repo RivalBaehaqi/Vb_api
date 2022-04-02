@@ -1,0 +1,10 @@
+C:\Users\Hp\documents\visual studio 2010\Projects\Data\Data\bin\Debug\Data.exe.config
+C:\Users\Hp\documents\visual studio 2010\Projects\Data\Data\bin\Debug\Data.exe
+C:\Users\Hp\documents\visual studio 2010\Projects\Data\Data\bin\Debug\Data.pdb
+C:\Users\Hp\documents\visual studio 2010\Projects\Data\Data\bin\Debug\Data.xml
+C:\Users\Hp\documents\visual studio 2010\Projects\Data\Data\obj\x86\Debug\Data.Form1.resources
+C:\Users\Hp\documents\visual studio 2010\Projects\Data\Data\obj\x86\Debug\Data.Resources.resources
+C:\Users\Hp\documents\visual studio 2010\Projects\Data\Data\obj\x86\Debug\Data.vbproj.GenerateResource.Cache
+C:\Users\Hp\documents\visual studio 2010\Projects\Data\Data\obj\x86\Debug\Data.exe
+C:\Users\Hp\documents\visual studio 2010\Projects\Data\Data\obj\x86\Debug\Data.xml
+C:\Users\Hp\documents\visual studio 2010\Projects\Data\Data\obj\x86\Debug\Data.pdb
